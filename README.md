@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hugo Baião</h1>
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/hugobaiao)
+- 👨‍💻 All of my projects are available at https://bit.ly/hugobaiao
 
 - 📝 I regularly write articles on [https://hugoarchive.wordpress.com/](https://hugoarchive.wordpress.com/)
 
