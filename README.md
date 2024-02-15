@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hugo Baião</h1>
-<h3 align="center">An analytical professional passionate about technology, with experience in data analysis and customer support.</h3>
-
-- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://hugobaiao.notion.site/hugobaiao/Hi-I-m-Hugo-d0123e92f3a240e8a94dbe81fd4cfdce](https://hugobaiao.notion.site/hugobaiao/Hi-I-m-Hugo-d0123e92f3a240e8a94dbe81fd4cfdce)
 
