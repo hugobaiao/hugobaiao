@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hugo Baião</h1>
 
-- 👨‍💻 All of my projects are available at https://bit.ly/hugobaiao
-
-- 📝 I regularly write articles on [https://hugoarchive.wordpress.com/](https://hugoarchive.wordpress.com/)
+- 👨‍💻 Welcome! I am an aspiring Data Analyst, and this is the dedicated space where I will be showcasing all of my projects. Stay tuned for insightful data explorations and analyses!
 
 - 📫 How to reach me **hugoalvesbaiao@gmail.com**
 
