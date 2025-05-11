@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Hugo Baião</h1>
 
 <p align="center">
-  <em>Data Analyst based in Lisbon | Excel & Power BI Enthusiast | SQL & Python Learner</em>
+  <em>Data Analyst based in Lisbon | Excel & Power BI Enthusiast</em>
 </p>
 
 ---
@@ -12,7 +12,7 @@ I'm a Data Analyst based in Lisbon, passionate about turning data into insights 
 
 My projects showcase my ability to work with tools like Power BI, Excel, and Tableau to create dashboards, reports, and exploratory data visualizations. Many are inspired by real use cases at work, so they’re built with practicality and usability in mind.
 
-I’m always improving my skillset — currently focusing on sharpening my **SQL** and **advanced Excel** knowledge.
+I’m always improving my skillset — currently focusing on sharpening my **SQL** and **Python** knowledge.
 
 ---
 
