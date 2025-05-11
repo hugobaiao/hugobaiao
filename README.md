@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-- 👨‍💻 Welcome! My name is Hugo Baião, I'm a Data Analyst based in Lisbon. This space is dedicated to showcase my data projects, be it either personal projects or projects that I work on in my day-to-day at my job (no confidential information here regarding any company, all work related projects will be showcased with 100% fictitious data).
+- 👨‍💻 Welcome! My name is Hugo Baião, I'm a Data Analyst based in Lisbon. This space is dedicated to showcasing my data projects, be it either personal projects or projects that I work on in my day-to-day at my job (no confidential information here regarding any company, all work related projects will be showcased with 100% fictitious data).
 - Stay tuned for insightful data explorations and analyses!
 
 - <h2 align="left">About Me</h2>
