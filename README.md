@@ -3,6 +3,11 @@
 - 👨‍💻 Welcome! My name is Hugo Baião, I'm a Data Analyst based in Lisbon. This space is dedicated to showcase my data projects, be it either personal projects or projects that I work on in my day-to-day at my job (no confidential information here regarding any company, all work related projects will be showcased with 100% fictitious data).
 - Stay tuned for insightful data explorations and analyses!
 
+- <h2 align="left">About Me</h2>
+
+- I have a growing portfolio of projects that highlight my ability to turn raw data into meaningful insights. From dashboards to data visualizations, each project is a testament to my commitment to learning and improving in the field of data analysis. As mentioned, some of there projects have been created for and used in real work environments, so they are backed up in terms of real usability.
+- Feel free to explore and reach me if you have any enquiries.
+
 - 📫 How to reach me **hugoalvesbaiao@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -45,9 +50,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
 </p>
-
-<h2 align="left">About Me</h2>
-
-- I have a growing portfolio of projects that highlight my ability to turn raw data into meaningful insights. From dashboards to data visualizations, each project is a testament to my commitment to learning and improving in the field of data analysis. Feel free to explore and reach me if you have any enquiries.
   
 Stay tuned for more projects as I continue to expand my skills and take on new challenges!
