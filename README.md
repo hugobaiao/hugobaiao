@@ -6,16 +6,6 @@
 
 ---
 
-### 🧠 About Me
-
-I'm a Data Analyst based in Lisbon, passionate about turning data into insights that drive decisions. This GitHub is where I share a mix of personal data projects and professional-inspired work (always using 100% fictitious or anonymized data).
-
-My projects showcase my ability to work with tools like Power BI, Excel, and Tableau to create dashboards, reports, and exploratory data visualizations. Many are inspired by real use cases at work, so they’re built with practicality and usability in mind.
-
-I’m always improving my skillset — currently focusing on sharpening my **SQL** and **Python** knowledge.
-
----
-
 ### 📫 Get in Touch
 
 - Email: **hugoalvesbaiao@gmail.com**
