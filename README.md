@@ -48,5 +48,3 @@
 </p>
 
 ---
-
-Stay tuned for more projects as I continue to expand my skills and take on new challenges!
