@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋 I'm Hugo Baião</h1>
-
-<p align="center">
-  <em>Data Analyst based in Lisbon | Excel & Power BI Enthusiast | SQL & Python Learner</em>
-</p>
-
----
-
 ### 📫 Get in Touch
 
 - Email: **hugoalvesbaiao@gmail.com**
