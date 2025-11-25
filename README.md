@@ -1,8 +1,6 @@
 ### 📫 Get in Touch
 
-- Email: **hugoalvesbaiao@gmail.com**
-- LinkedIn: [linkedin.com/in/hugobaiao](https://linkedin.com/in/hugobaiao)
-- Instagram: [@mar1aimhigh](https://instagram.com/mar1aimhigh)
+- Email: **hugobaiao@tuta.io**
 - Behance: [hugobaiao](https://www.behance.net/hugobaiao)
 
 ---
